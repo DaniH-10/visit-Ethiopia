@@ -31,6 +31,9 @@ header {
   width: 4rem;
   height: 2rem;
 }
+.menubar{
+  
+}
 .navigation ul {
   display: flex;
   justify-content: end;
